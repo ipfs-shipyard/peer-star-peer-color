@@ -1,0 +1,29 @@
+{
+  "name": "peer-star-peer-color",
+  "version": "0.1.0",
+  "description": "Peer color used throughout peer-* apps and libs",
+  "main": "src/index.js",
+  "dependencies": {
+    "color-hash": "^1.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ipfs-shipyard/peer-star-peer-color.git"
+  },
+  "keywords": [
+    "ipfs",
+    "peer-*",
+    "peer-star",
+    "peer"
+  ],
+  "author": "Pedro Teixeira <i@pgte.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ipfs-shipyard/peer-star-peer-color/issues"
+  },
+  "homepage": "https://github.com/ipfs-shipyard/peer-star-peer-color#readme"
+}
